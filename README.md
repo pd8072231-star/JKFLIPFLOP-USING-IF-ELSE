@@ -71,11 +71,8 @@ endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
 <img width="1920" height="1080" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/fcf59e21-27f3-4eea-8cc6-3a55f08b8bcc" />
-
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1920" height="1080" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/0e45b397-4c7c-432d-9dca-3948261f6fc1" />
-
+<img width="1920" height="1080" alt="Screenshot (587)" src="https://github.com/user-attachments/assets/743a531c-4873-4726-8a03-ad00893fce29" />
 
 **RESULTS**
 Thus,the JK flipflop executed successfully.
